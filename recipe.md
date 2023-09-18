@@ -6,7 +6,7 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 cup milk
-- 1/2 vegetable oil
+- 1/2 cup vegetable oil
 - 1 tsp vanilla extract
 - 1 tbsp instant coffee
 - 1/2 tsp ground cinnamon
