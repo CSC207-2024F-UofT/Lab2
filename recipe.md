@@ -14,3 +14,5 @@
 3. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 4. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 5. Pour the batter into a greased and floured 9x13-inch baking pan.
+6. Bake the cake for 20 minutes
+7. Take the cake out and let sit for 10 minutes.
