@@ -9,6 +9,11 @@
 - no cinnamon cause cinnamon tastes bad
 - ...
 
+## Whipping Cream:
+- 1 cup whipping cream
+- 1 tbsp sugar
+Whip to soft/firm peaks.
+
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
