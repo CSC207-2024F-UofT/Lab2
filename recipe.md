@@ -5,6 +5,9 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fbe31908939c66716ebde205807399ef73d2397b
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - ...
@@ -18,6 +21,7 @@
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+<<<<<<< HEAD
 =======
 - 1/2 tsp ground cinnamon
 - ...
@@ -32,3 +36,5 @@
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
 >>>>>>> bob
+=======
+>>>>>>> fbe31908939c66716ebde205807399ef73d2397b
