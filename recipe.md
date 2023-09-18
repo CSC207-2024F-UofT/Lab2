@@ -7,6 +7,7 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
+- 1 tsp salt
 - ...
 
 ## Instructions:
