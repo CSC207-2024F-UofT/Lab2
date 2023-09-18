@@ -1,13 +1,13 @@
 import java.util.List;
 
 public class DataTypes {
-    // TODO TASK 1: fix this code so that it passes the test in DataTypesTest.java
-    public static long sum(List<Integer> numbers) {
+    // TASK 1: fix this code so that it passes the test in DataTypesTest.java
+    public static <T extends Number> long sum(List<T> numbers) {
 
-        int s = 0;
+        long s = 0;
         // below is a "foreach" loop which iterates through numbers
-        for (int x : numbers) {
-            s += x;
+        for (T x : numbers) {
+            s += x.longValue();
         }
         return s;
     }
