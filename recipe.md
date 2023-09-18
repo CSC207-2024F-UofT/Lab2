@@ -7,6 +7,7 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
+- a slice of pineapple pizza
 - ...
 
 ## Instructions:
@@ -19,3 +20,4 @@
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+7. After baking, place a beautiful slice of pineapple pizza on top of the cake for that wonderful extra flavour.
