@@ -2,7 +2,7 @@
 
 The main topic of this first lab activity is branching and merging in git.
 
-## Resources and Acknowledgements
+## Resources
 
 https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
 walkthrough of the steps we will be going through in the lab. We encourage you to use
@@ -14,15 +14,13 @@ problems posted on https://projecteuler.net/archives which is another interestin
 programming problems. You might also recognize that the multiples of 3 and 5 problem from
 last week came from there. If you are looking for challenges, definitely check it out.
 
-The partial cake recipes are courtesy ChatGPT.
-
 # TASK 0: Fork this repo
 
 Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
-can make pull requests to that repo during the Task 3 activity during the lab.
+can make pull requests to that repo during the Task 3 activity during lab.
 
-During lab, you should not fork directly from https://github.com/CSC207-2023F-UofT/Lab2.
-If you miss the lab and work on this after, you should use this URL though.
+During lab, you should not fork directly from
+TODO REPO URL. If you miss the lab and work on this after, please fork TODO REPO URL.
 
 - [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - Important: make sure to uncheck the option to only fork the main branch, as the repo
@@ -76,17 +74,17 @@ started working on the recipe in `recipe.md` together, and then each filled in t
 what they felt would make the most delicious cake!
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
-- [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
+- [X] Checkout the `alice` branch.
+- [X] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
   parts of each recipe to keep.
   - Read what either `git` or `IntelliJ` tells you in order to complete the merge process.
     - If you do the merge through the Terminal, you will need to edit `recipe.md` to remove all of the
     merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
     `recipe.md` file and `git commit` to finish the merge.
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [X] Once the merge is complete, delete the `bob` branch.
 
-- [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
+- [X] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
 
