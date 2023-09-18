@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
+- 1 tsp sugar
 - ...
 
 ## Instructions:
