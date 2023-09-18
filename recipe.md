@@ -14,13 +14,12 @@
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
 3. ...
 
-## Additional Directions by Bob:
-4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
-5. Mix in a handful of chocolate chunks for extra indulgence.
-6. Line the bottom of the baking pan with parchment paper for easy cake removal.
-
-
-## Additional Directions by Alice:
-4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
-5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
+## Additional Directions:
+1. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
+2. Mix in a handful of chocolate chunks for extra indulgence.
+3. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
+4. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
+5. Line the bottom of the baking pan with parchment paper for easy cake removal.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+
+
