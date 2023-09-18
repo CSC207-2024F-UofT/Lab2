@@ -7,7 +7,8 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
-- ...
+- 1 cup milk
+- 2 eggs
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
