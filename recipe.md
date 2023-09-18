@@ -18,3 +18,6 @@
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+7. Bake for 35-40 minutes, or until a toothpick inserted in the center comes out clean.
+8. Allow to cool completely before frosting.
+9. Enjoy!
