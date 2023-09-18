@@ -10,7 +10,7 @@
 - 1 tsp vanilla extract
 - 1 tbsp instant coffee
 - 1/2 tsp ground cinnamon
-- Handful of chocolate chunks
+- A handful of chocolate chunks
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
