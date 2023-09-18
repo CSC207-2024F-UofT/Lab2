@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+lab-2.iml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
