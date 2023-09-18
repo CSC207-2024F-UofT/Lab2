@@ -5,8 +5,12 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
+- 1 cup milk
+- 1/2 vegetable oil
 - 1 tsp vanilla extract
+- 1 tbsp instant coffee
 - 1/2 tsp ground cinnamon
+- Handful of chocolate chunks
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
