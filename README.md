@@ -33,7 +33,7 @@ If you miss the lab and work on this after, you should use this URL though.
 <<<<<<< Updated upstream
 - [x] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
 =======
-- [] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
+- [x] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
 >>>>>>> Stashed changes
   - IntelliJ: `Git -> New branch...`
   - Terminal: `git checkout -b task_1`
@@ -96,10 +96,10 @@ Now, you are almost ready to share your recipe with the remote!
 
 # TASK 3
 
-- [ ] Checkout a new branch called `task_3`.
-- [ ] Commit any changes that you want to `recipe.md` to improve the recipe.
-- [ ] While still on the `task_3` branch, push your code to your remote repository on GitHub.
-- [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
+- [x] Checkout a new branch called `task_3`.
+- [x] Commit any changes that you want to `recipe.md` to improve the recipe.
+- [x] While still on the `task_3` branch, push your code to your remote repository on GitHub.
+- [x] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that it shows up in the original repository that you forked.
 
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
