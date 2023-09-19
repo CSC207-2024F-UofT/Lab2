@@ -18,7 +18,7 @@ The partial cake recipes are courtesy ChatGPT.
 
 # TASK 0: Fork this repo
 
-Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
+Note: If you are in lab, your TA will share a different URL for you to fork from https://github.com/XinyiXL/Lab2, so that you
 can make pull requests to that repo during the Task 3 activity during the lab.
 
 During lab, you should not fork directly from https://github.com/CSC207-2023F-UofT/Lab2.
