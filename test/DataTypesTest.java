@@ -18,7 +18,7 @@ public class DataTypesTest {
         // try removing the L and you'll see that you get an error
         // saying "Integer number too large".
         // Note: You can use _ to help make it easier to
-        //       read large numbers, as is done below.
+        // read large numbers, as is done below.
         long x = 500_000_500_000L;
         List<Integer> lst = new ArrayList<>();
         for (int i = 1; i <= 1_000_000; i++) {
