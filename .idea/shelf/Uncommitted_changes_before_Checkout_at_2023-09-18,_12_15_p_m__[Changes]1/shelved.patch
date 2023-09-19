@@ -1,0 +1,23 @@
+Index: src/DataTypes.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.util.List;\n\npublic class DataTypes {\n    // TODO TASK 1: fix this code so that it passes the test in DataTypesTest.java\n    public static long sum(List<Integer> numbers) {\n\n        int s = 0;\n        // below is a \"foreach\" loop which iterates through numbers\n        for (int x : numbers) {\n            s += x;\n        }\n        return s;\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/DataTypes.java b/src/DataTypes.java
+--- a/src/DataTypes.java	
++++ b/src/DataTypes.java	
+@@ -1,10 +1,10 @@
+ import java.util.List;
+ 
+ public class DataTypes {
+-    // TODO TASK 1: fix this code so that it passes the test in DataTypesTest.java
++    //  TASK 1: fix this code so that it passes the test in DataTypesTest.java
+     public static long sum(List<Integer> numbers) {
+ 
+-        int s = 0;
++        long s = 0;
+         // below is a "foreach" loop which iterates through numbers
+         for (int x : numbers) {
+             s += x;
