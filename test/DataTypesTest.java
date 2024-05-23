@@ -22,7 +22,7 @@ public class DataTypesTest {
         long x = 500_000_500_000L;
         List<Integer> lst = new ArrayList<>();
         for (int i = 1; i <= 1_000_000; i++) {
-            lst.add(i);
+            lst.add(i)
         }
         assertEquals("sum form 1 to 1 million should be " + x, x, DataTypes.sum(lst));
     }
