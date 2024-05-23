@@ -75,7 +75,7 @@ what they felt would make the most delicious cake!
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
 - [X] Checkout the `alice` branch.
-- [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
+- [X] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
   parts of each recipe to keep.
   - Read what either `git` or `IntelliJ` tells you in order to complete the merge process.
