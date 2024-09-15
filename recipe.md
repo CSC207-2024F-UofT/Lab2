@@ -5,7 +5,7 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 <<<<<<< HEAD
-- 1 cup of salt and vinegar with a dash of love babyyyyyy
+- 1 cup of salt and vinegar with a dash of love babyyyyyy + more love extra love
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
