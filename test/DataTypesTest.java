@@ -10,7 +10,7 @@ public class DataTypesTest {
 
     @Test(timeout = 1000)
     /**
-     * Test that DataTypes.sum returns the correct value for
+     * Test that DataTypes returns the correct value for
      * the sum from 1 to 1 million.
      */
     public void largeSumTest() {
@@ -26,5 +26,9 @@ public class DataTypesTest {
             lst.add(i);
         }
         assertEquals("sum from 1 to 1 million should be " + x, x, DataTypes.sum(lst));
+    }
+    public static void main(String[] args){
+        DataTypesTest test = new DataTypesTest();
+        test.largeSumTest();
     }
 }
