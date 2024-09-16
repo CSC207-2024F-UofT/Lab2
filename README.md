@@ -24,7 +24,7 @@ can make pull requests to that repo during the Task 3 activity during the lab.
 During lab, you should not fork directly from https://github.com/CSC207-2024F-UofT/Lab2.
 If you miss the lab and work on this after, you should use this URL though.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [x] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - **Important**: make sure to uncheck the option to only fork the main branch, as the repo
   contains two branches you will use later in this lab.
 
@@ -51,11 +51,11 @@ Note: everything we've done has been local to our repository and have not pushed
 
 You should now see the changes you had made are also in the `main` branch.
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [x] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
-- [ ] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [x] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change (just right on the main branch is fine;
   no need to branch for this little step), then push your code. Check GitHub to ensure you can
   see your changes.
