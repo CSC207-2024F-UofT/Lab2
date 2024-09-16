@@ -18,13 +18,15 @@ The partial cake recipes are courtesy ChatGPT.
 
 # TASK 0: Fork this repo
 
+Please fork this repo: https://github.com/huyang531/Lab2
+
 Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
 can make pull requests to that repo during the Task 3 activity during the lab.
 
 During lab, you should not fork directly from https://github.com/CSC207-2024F-UofT/Lab2.
 If you miss the lab and work on this after, you should use this URL though.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [x] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - **Important**: make sure to uncheck the option to only fork the main branch, as the repo
   contains two branches you will use later in this lab.
 
