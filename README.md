@@ -1,3 +1,4 @@
+hi
 # Lab 2: Branching and Merging
 
 The main topic of this first lab activity is branching and merging in git.
