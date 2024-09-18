@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 public class DataTypesTest {
 
     @Test(timeout = 1000)
-    /**
+    /*
      * Test that DataTypes.sum returns the correct value for
      * the sum from 1 to 1 million.
      */
