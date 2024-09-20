@@ -7,14 +7,19 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
-- ...
+- Love
+- Passion
+- 15 Cups Butter
 
 ## Instructions:
-1. Preheat the oven to 375°F (190°C).
+1. Preheat the oven to 700°F (?°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+3. Dump all ingredients down the garbage
+4. Open DoorDash
+5. Order cake for delivery
+6. Enjoy!
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
